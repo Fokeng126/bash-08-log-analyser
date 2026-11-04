@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a Bash script that reads server log files and shows useful information about website visits, IP addresses, errors, and data usage.
+This project is a Bash script that reads server log files and shows useful information about site visits, IP addresses, errors, and data usage.
 
 ## Features
 
