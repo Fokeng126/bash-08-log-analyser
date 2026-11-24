@@ -3,7 +3,7 @@
 
 ## Problem Statement
 
-Server administrators need to understand website activity by checking server logs. Reading large log files manually takes time and makes it difficult to identify visitors, popular pages, errors, and data usage.
+Server administrators need to understand site activity by checking server logs. Reading large log files manually takes time and makes it difficult to identify visitors, popular pages, errors, and data usage.
 
 ## Project Goal
 
